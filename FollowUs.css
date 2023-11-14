@@ -1,0 +1,21 @@
+.follow-us-section-heading{
+    font-size: 30px;
+text-align: center;
+margin-bottom: 10px;
+
+}
+
+.follow-us-icon-conatiner{
+height: 90px;
+width: 90px;
+background-color: #faf7e8;
+border-radius: 40px;
+margin-right: 25px;
+}
+
+.icon{
+    color: #d0b200;
+    font-size: 45px;
+    margin-left: 25px;
+    margin-top: 20px;
+}

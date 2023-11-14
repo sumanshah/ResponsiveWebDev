@@ -69,3 +69,143 @@ font-weight: 300px;
     margin-right: 10px;
     color: #d0b200;
 }
+
+.wcu-section{
+    background-color: #f9fbfe;
+}
+
+.wcu-section-heading{
+font-size: 30px;
+font-weight: 28px;
+color: #183b56;
+
+}
+
+.wcu-section-description{
+font-size: 22px;
+color: #5a7184;
+}
+
+.wcu-card{
+  text-align: center;
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5eaf4;
+  border-radius: 16px;
+}
+
+.wcu-card-image {
+    width: 87px;
+    height: 90px;
+  }
+  .wcu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+  }
+  .wcu-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  
+  .offers {
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+  }
+
+  .explore-menu-section{
+    background-color: white;
+}
+
+.menu-section-heading{
+    color: #183b56;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.menu-item-card{
+    border-radius: 16px;
+}
+
+.menu-item-image{
+    border-radius: 16px;
+}
+
+.menu-card-title{
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link{
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.delivery-and-payment-section{
+    background-color: white;
+}
+
+.delivery-and-payment-section-img{
+    width: 270px;
+}
+
+.delivery-and-payment-section-heading{
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.delivery-and-payment-section-description{
+    color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+  }
+  .custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+  }
+
+  .follow-us-section-heading{
+    font-size: 30px;
+text-align: center;
+margin-bottom: 10px;
+
+}
+
+.follow-us-icon-conatiner{
+height: 90px;
+width: 90px;
+background-color: #faf7e8;
+border-radius: 40px;
+margin-right: 25px;
+margin-bottom: 20px;
+}
+
+.icon{
+    color: #d0b200;
+    font-size: 45px;
+    margin-left: 25px;
+    margin-top: 20px;
+  
+}
