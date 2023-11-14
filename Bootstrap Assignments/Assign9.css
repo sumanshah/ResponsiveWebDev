@@ -1,0 +1,52 @@
+.VR-HeadSet-card{
+background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+background-size: cover;
+width: 100vw;
+height: 120vh;
+}
+
+.VR-HeadSet-main-head{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.VR-HeadSet-head{
+    color: white;
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.VR-HeadSet-price{
+    color: white;
+    padding-left: 10px;
+}
+
+.VR-HeadSet-card1{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+    width: 100vw;
+    height: 120vh;
+    }
+
+.VR-HeadSet-btn{
+    background-color: transparent;
+    border: 1px solid white;
+    height: 40px;
+    width: 100px;
+    color: white;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    margin-left: 10px;
+}
+
+.VR-HeadSet-Btn1{
+    height: 50px;
+    width: 150px;
+    background-color: #1754a1;
+    color: white;
+    border-width: 0px;
+    border-radius: 5px;
+    margin-right: 20%;
+    margin-bottom: 20px;
+}

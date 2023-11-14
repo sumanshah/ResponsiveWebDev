@@ -1,0 +1,57 @@
+.bsa-nav-image{
+    height: 70px;
+    width: 80px;
+}
+
+.bsa-nav-margin{
+    margin-left: auto;
+}
+
+#bsa-navItem1{
+    color: #323f5b;
+    font-weight: bold;
+}
+
+#bsa-navItem2{
+    color: #323f5b;
+    font-weight: bold;
+}
+
+#bsa-navItem3{
+    color: #323f5b;
+    font-weight: bold;
+}
+
+#bsa-navItem4{
+    color: #323f5b;
+    font-weight: bold;
+}
+
+.banner-section-bg-conatiner{
+    height: 100vh;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    background-size: cover;
+}
+
+.banner-heading{
+ color: white;
+ font-size: 45px;
+ font-weight: 300px;
+}
+
+ .banner-caption{
+color: f5f7fa;
+font-size: 24px;
+font-weight: 300px;
+}
+
+.custom-button{
+    width: 130px;
+    height: 45;
+    border: 0px;
+    background-color: #1a2137;
+    border-radius: 8px;
+    margin-right: 10px;
+    color: white;
+}
+

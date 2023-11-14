@@ -1,0 +1,33 @@
+.VR-Website-Section{
+    background-color: white;
+    
+}
+
+.VR-main-heading{
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.VR-img{
+    height: 80px;
+    margin-top: 10px;
+}
+
+.VR-head{
+    font-size: 26px;
+}
+
+.VR-description{
+    font-size: 20px;
+    text-align: center;
+    color: #7b8794;
+  
+}
+
+span{
+    font-weight: bold;
+    font-style: italic;
+    color: #1f2933;
+}

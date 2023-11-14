@@ -1,0 +1,17 @@
+.bas-color-Palette-heading{
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.bas-color-box{
+    padding: 5px;
+}
+
+.bas-color-name{
+  font-size: 27px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+

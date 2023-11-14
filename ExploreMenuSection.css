@@ -1,0 +1,32 @@
+.explore-menu-section{
+    background-color: white;
+}
+
+.menu-section-heading{
+    color: #183b56;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.menu-item-card{
+    border-radius: 16px;
+}
+
+.menu-item-image{
+    border-radius: 16px;
+}
+
+.menu-card-title{
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link{
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+}

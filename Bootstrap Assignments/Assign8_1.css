@@ -1,0 +1,45 @@
+.VR-Website-Trending-Blogs-Heading{
+font-weight: bold;
+font-size: 25px;
+padding-top: 10px;
+padding-bottom: 10px;
+color: #1f2933;
+}
+
+img{
+    width: 100%;
+}
+
+.VR-Website-Trending-Blogs-para{
+    color: #959ead;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.VR-Website-Trending-Blogs-description{
+    color: #323f4b;
+    font-size: 25px;
+    margin-top: -10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.VR-Website-Trending-Blogs-ReadMore{
+    color: #1754a1;
+    padding-left: 10px;
+    text-decoration: none;
+    font-weight: bold;
+   margin-top: -10px;
+}
+
+.VR-Website-Trending-Blogs-Btn{
+    height: 50px;
+    width: 150px;
+    background-color: #1754a1;
+    color: white;
+    border-width: 0px;
+    border-radius: 5px;
+    margin-right: 10%;
+    margin-bottom: 20px;
+
+}

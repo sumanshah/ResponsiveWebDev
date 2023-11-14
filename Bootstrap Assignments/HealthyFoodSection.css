@@ -1,0 +1,31 @@
+.healthy-food-section{
+    background-color: #f9fbfe;
+}
+
+.healthy-food-section-img{
+    width: 270px;
+}
+
+.healthy-food-section-heading{
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.healthy-food-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.custom-button{
+    color: white;
+  background-color: #d0b200;
+  height: 50px;
+  width: 130px;
+  border-radius: 8px;
+  border-width: 0;
+  margin-right: 10px ;
+
+}

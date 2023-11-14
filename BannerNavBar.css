@@ -1,0 +1,71 @@
+.bnb-nav-image{
+    height: 70px;
+    width: 80px;
+}
+
+.bnb-nav-margin{
+    margin-left: auto;
+}
+
+.bnb-anchor-name{
+    color: white;
+    font-size: 18px;
+}
+
+#navItem1{
+    color: #323f5b;
+    font-weight: bold;
+}
+
+#navItem2{
+    color: #323f5b;
+    font-weight: bold;
+}
+
+#navItem3{
+    color: #323f5b;
+    font-weight: bold;
+}
+
+#navItem4{
+    color: #323f5b;
+    font-weight: bold;
+}
+
+.banner-section-bg-conatiner{
+    height: 100vh;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+}
+
+.banner-heading{
+ color: white;
+ font-size: 45px;
+ font-weight: 300px;
+}
+
+ .banner-caption{
+color: f5f7fa;
+font-size: 24px;
+font-weight: 300px;
+}
+
+.custom-button{
+    width: 130px;
+    height: 45;
+    border: 0px;
+    background-color: #d0b200;
+    border-radius: 8px;
+    margin-right: 10px;
+    color: white;
+}
+
+.custom-outline-button{
+    width: 130px;
+    height: 45px;
+    border: 2px solid #d0b200;
+    background-color: transparent;
+    border-radius: 8px;
+    margin-right: 10px;
+    color: #d0b200;
+}

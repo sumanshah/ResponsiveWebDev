@@ -1,0 +1,20 @@
+.VR-Website-Kit-section{
+    background-color: #f9fbfe;
+}
+
+.VR-website-heading{
+    padding-left: 30px;
+    padding-top: 20px;
+    color: #1f2933;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+img{
+    height: 130px;
+}
+
+.VR-website-description{
+    color: #323f4b;
+    font-size: 15px;
+}

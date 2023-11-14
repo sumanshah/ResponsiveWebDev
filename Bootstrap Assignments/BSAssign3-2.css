@@ -1,0 +1,12 @@
+.todo-bg-container{
+    height: 500px;
+    width: 350px;
+    background-color:beige;
+    padding: 20px;
+}
+
+.todo-completed{
+    color:darkgray;
+    text-decoration: line-through;
+    font-style: italic;
+}
