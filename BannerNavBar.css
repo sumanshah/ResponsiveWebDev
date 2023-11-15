@@ -148,6 +148,7 @@ color: #5a7184;
     font-family: "Roboto";
     font-size: 20px;
     font-weight: 500;
+    text-decoration: none;
 }
 
 .delivery-and-payment-section{
@@ -188,8 +189,9 @@ color: #5a7184;
 
   .follow-us-section-heading{
     font-size: 30px;
-text-align: center;
-margin-bottom: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: bold;
 
 }
 
@@ -225,3 +227,38 @@ margin-bottom: 20px;
     font-family: "Roboto";
     font-size: 14px;
   }
+
+  .thanking-customers-section{
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.thanking-customers-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+  }
+  .custom-button {
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+  }
+
+  .thanking-customer-section-modal-title{
+    color: #d0b200;
+    font-weight: 800px;
+  }
+
