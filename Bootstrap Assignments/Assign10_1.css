@@ -1,0 +1,70 @@
+.VR-Website-Footer-Section{
+    background-color: #19232d;
+}
+
+
+.VR-Website-bg{
+    height: 50px;
+    width: 50px;
+    background-color: #202b36;
+    border-radius: 50px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.VR-Website-icon{
+    color: #5a7184;
+    font-size: 50px;
+    margin-top: 25px;
+}
+
+.VR-Address{
+color: #5a7184;
+text-align: center;
+font-weight: bold;
+}
+
+.VR-Website-para{
+    font-size: 22px;
+    color: #5a7184;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.VR-Website-Head{
+    color: #5a7184;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: -10px;
+}
+
+.VR-Website-icon1{
+    color: #5a7184;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.VR-Website-paragph{
+    font-size: 20px;
+    color: #5a7184;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.VR-Website-para1{
+    font-size: 20px;
+    color: #5a7184;
+    margin-top: -10px;
+    }
+
+.hr{
+    color: #959ead;
+    font-weight: bold;
+}
+
+span {
+    color: #959ead;
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 20px;
+}
