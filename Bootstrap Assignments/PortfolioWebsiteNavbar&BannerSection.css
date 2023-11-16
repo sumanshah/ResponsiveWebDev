@@ -1,0 +1,47 @@
+.PortfolioWebsite-BannerSection{
+    background-color: #191a1d;
+}
+
+.PortfolioWebsite-head-conatiner{
+   height: 50px;
+   width: 40px;
+   border: 1.5px solid #4b6cc1;
+   padding-left: 10px;
+   padding-top: -20px;
+   margin-top: 10px;
+
+}
+
+.portfolia-nav-margin{
+    margin-left: auto;
+}
+
+.PortfolioWebsite-img{
+    margin-top: 40px;
+    height: 200px;
+    width: 200px;
+}
+
+.portfolio-banner-heading{
+    color: #9aa5b1;
+}
+
+.portfolio-banner-description{
+    color: #9aa5b1;
+
+}
+
+.portfolio-banner-btn{
+    height: 40px;
+    width: 120px;
+    border-width: 0px;
+    border-radius: 8px;
+    color: white;
+    background-color: #4b6cc1;
+    margin-bottom: 20px;
+    
+}
+
+span{
+    color: #4b6cc1;
+}
