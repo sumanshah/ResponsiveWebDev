@@ -1,0 +1,51 @@
+.portfoliawebsite-projectsection-bg{
+    background-color: #3e4c59;
+}
+
+.portfolio-heading{
+    color: #cced00;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.portfolio-heading-description{
+    color: white;
+    font-size: 40px;
+}
+
+.portfoliawebsite-Hotel-img{
+    width: 100%;
+}
+
+.Royal-grand-hotel-card{
+    background-color: #323f4b;
+    border-radius: 6px;
+}
+
+.portfolio-project-name{
+    color: #9aa5b1;
+    font-size: 12px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+
+.portfolio-project-heading{
+    color: white;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: -25px;
+}
+
+.portfolio-project-desciption{
+    color: #9aa5b1;
+    font-size: 15px;
+    padding-left: 20px;
+
+}
+
+.portfolio-readmore-link{
+    color: #cced00;
+    text-decoration: none;
+    padding-left: 20px;
+}

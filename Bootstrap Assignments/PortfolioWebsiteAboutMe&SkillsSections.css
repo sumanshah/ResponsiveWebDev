@@ -1,0 +1,47 @@
+.PortfolioWebsite-Facts-Bg-container{
+    background-color: #323f4b;
+}
+
+.PortfolioWebsite-Skills-Bg-container{
+    background-color: #1f2933;
+}
+
+.portfolio-facts-skills{
+    color: #cced00;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.portfolio-about-me{
+    color: white;
+    font-size: 28px;
+}
+
+.portfolio-about-me-img{
+    width: 90%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-right: -10px;
+}
+
+.portfolio-about-me-Description{
+    font-size: 25px;
+    color: #9aa5b1;
+    padding-right: 30px;
+}
+
+.PortfolioWebsite-Skills-Box-container{
+    background-color: #323f4b;
+    border-radius: 5px;
+}
+
+.portfolio-skills-Description{
+   font-size: 15px;
+   color: white;
+   text-align: center;
+   font-weight: bold;
+}
+
+.portfolio-skills-img{
+    width: 60%;
+}
