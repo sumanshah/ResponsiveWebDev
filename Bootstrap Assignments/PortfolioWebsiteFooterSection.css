@@ -1,0 +1,38 @@
+.footer-section-bg{
+    background-color: #0d2436;
+}
+
+.Footer-Section-heading{
+    color: #cced00;
+    font-size: 25px;
+}
+
+.Footer-Section-description{
+    color: #5a7184;
+    font-size: 18px;
+    font-weight: 800px;
+}
+
+.Footer-section-icon{
+    font-size: 27px;
+    color: #5a7184;
+    margin-right: 10px;
+}
+
+.Footer-profile-image{
+    height: 100px;
+    width: 100px;
+    border-radius: 90px;
+    margin-top: 20px;
+    margin-right: -10px;
+    margin-left: 50px;
+    
+}
+
+.footer-bottom-bg{
+    background-color: #001c32;
+    color: #9aa5b1;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
