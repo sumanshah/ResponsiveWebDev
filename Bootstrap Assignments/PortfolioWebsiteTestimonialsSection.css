@@ -1,0 +1,67 @@
+.Testimonial-Section-bg{
+   background-color: #1f2933;
+}
+
+.portfolio-testimonial-heading{
+    color: #cced00;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 30px;
+    padding-top: 30px;
+}
+
+.portfolio-testimonial-heading-description{
+    color: white;
+    font-size: 40px;
+    margin-left: 30px;
+    padding-bottom: 10px;
+
+}
+
+.Testimonial-card-container{
+    background-color: #323f4b;
+    margin-top: -10px;
+    margin-left: 30px;
+    margin-bottom: 50px;
+
+}
+
+.Testimonial-image{
+border-radius: 120px;
+height: 120px;
+width: 120px;
+margin-top: 50px;
+}
+
+.Testimonial-card-description{
+    color: #9aa5b1;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.Testimonial-card-name{
+    color: white;
+    font-size: 25px ;
+    padding-bottom: 20px;
+}
+
+.Testimonial-Section-bg {
+    position: relative;
+    padding-bottom: 40px;
+}
+
+.carousel-control-buttons {
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
+
+.btn{
+    width: 40px;
+    height: 40px;
+    font-weight: bold;
+}

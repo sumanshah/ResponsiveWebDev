@@ -1,0 +1,33 @@
+
+.PortfolioWebsiteWorkDoneSection-bg{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+}
+
+.PortfolioWebsiteWorkDoneSection-icon{
+    font-size: 50px;
+    color: #ffffff;
+    margin-top: 100px ;
+    margin-left: 190px;
+}
+
+.PortfolioWebsiteWorkDoneSection-border{
+    color: #ffffff;
+    font-weight: 500px;
+    width: 100px;
+    margin-left: 190px;
+    text-align: center;
+}
+
+.PortfolioWebsiteWorkDoneSection-heading{
+    color: white;
+    margin-left: 30px;
+}
+
+.PortfolioWebsiteWorkDoneSection-description{
+    color: white;
+    margin-left: 20px;
+    margin-bottom: 100px;
+    font-size: 20px;
+}
+
